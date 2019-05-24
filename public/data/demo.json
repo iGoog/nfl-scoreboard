@@ -1,0 +1,137 @@
+{
+  "2018091700": {
+    "home": {
+      "score": {
+        "1": 7,
+        "2": 3,
+        "3": 0,
+        "4": 14,
+        "5": 0,
+        "T": 24
+      },
+      "abbr": "CHI",
+      "to": 2
+    },
+    "away": {
+      "score": {
+        "1": 0,
+        "2": 3,
+        "3": 0,
+        "4": 14,
+        "5": 0,
+        "T": 17
+      },
+      "abbr": "SEA",
+      "to": 0
+    },
+    "bp": 10,
+    "down": 0,
+    "togo": 0,
+    "clock": "00:00",
+    "posteam": "CHI",
+    "note": null,
+    "redzone": false,
+    "stadium": "Soldier Field",
+    "media": {
+      "radio": {
+        "home": null,
+        "away": null
+      },
+      "tv": "ESPN",
+      "sat": null,
+      "sathd": null
+    },
+    "yl": "",
+    "qtr": "Final"
+  },
+  "2018090603": {
+    "home": {
+      "score": {
+        "1": 3,
+        "2": 0,
+        "3": 0,
+        "4": 18,
+        "5": 0,
+        "T": 21
+      },
+      "abbr": "NO",
+      "to": 1
+    },
+    "away": {
+      "score": {
+        "1": 3,
+        "2": 3,
+        "3": 6,
+        "4": 6,
+        "5": 0,
+        "T": 18
+      },
+      "abbr": "CLE",
+      "to": 0
+    },
+    "bp": 9,
+    "down": 0,
+    "togo": 0,
+    "clock": "00:03",
+    "posteam": "NO",
+    "note": null,
+    "redzone": false,
+    "stadium": "Mercedes-Benz Superdome",
+    "media": {
+      "radio": {
+        "home": null,
+        "away": null
+      },
+      "tv": "FOX",
+      "sat": null,
+      "sathd": null
+    },
+    "yl": "",
+    "qtr": "Final"
+  },
+  "2018093008": {
+    "home": {
+      "score": {
+        "1": 0,
+        "2": 3,
+        "3": 3,
+        "4": 3,
+        "5": 0,
+        "T": 9
+      },
+      "abbr": "WAS",
+      "to": 0
+    },
+    "away": {
+      "score": {
+        "1": 7,
+        "2": 7,
+        "3": 0,
+        "4": 7,
+        "5": 0,
+        "T": 21
+      },
+      "abbr": "IND",
+      "to": 3
+    },
+    "bp": 8,
+    "down": 0,
+    "togo": 0,
+    "clock": "00:00",
+    "posteam": "IND",
+    "note": null,
+    "redzone": false,
+    "stadium": "FedExField",
+    "media": {
+      "radio": {
+        "home": null,
+        "away": null
+      },
+      "tv": "CBS",
+      "sat": null,
+      "sathd": null
+    },
+    "yl": "",
+    "qtr": "Final"
+  }
+}

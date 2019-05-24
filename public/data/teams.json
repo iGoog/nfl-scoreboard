@@ -1,0 +1,74 @@
+[
+  {
+    "ID": "CHI",
+    "City": "Chicago",
+    "Name": "Bears"
+  },
+  {
+    "ID": "CLE",
+    "City": "Cleveland",
+    "Name": "Browns"
+  },
+  {
+    "ID": "IND",
+    "City": "Indianapolis",
+    "Name": "Colts",
+    "Notes": "formerly of Baltimore"
+  },
+  {
+    "ID": "LA",
+    "City": "Los Angeles",
+    "Name": "Rams",
+    "Notes": "formerly of St. Louis"
+  },
+  {
+    "ID": "LAC",
+    "City": "Carson",
+    "Name": "Chargers",
+    "Notes": "officially Los Angeles"
+  },
+  {
+    "ID": "LAR",
+    "City": "Los Angeles",
+    "Name": "Rams",
+    "Notes": "formerly STL? SLR?"
+  },
+  {
+    "ID": "NE",
+    "City": "New England",
+    "Name": "Patriots"
+  },
+  {
+    "ID": "NO",
+    "City": "New Orleans",
+    "Name": "Saints"
+  },
+  {
+    "ID": "NYG",
+    "City": "New York",
+    "Name": "Giants",
+    "Notes": "also New Jersey"
+  },
+  {
+    "ID": "SD",
+    "City": "Carson",
+    "Name": "Chargers",
+    "Notes": "formerly San Diego"
+  },
+  {
+    "ID": "SEA",
+    "City": "Seattle",
+    "Name": "Seahawks"
+  },
+  {
+    "ID": "SF",
+    "City": "Santa Clara",
+    "Name": "49ers",
+    "Notes": "officially San Francisco"
+  },
+  {
+    "ID": "WAS",
+    "City": "Washington",
+    "Notes": "don't like 'Redskins'"
+  }
+]
